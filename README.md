@@ -44,4 +44,6 @@ All used resourcepacks and shaders packs can be found in dependencies!
 
 Try it now and elevate your Minecraft adventure with ReCraft+! 🎮
 
+<font size = 5>**🤔 Any issues? Report them on my GitHub**</font>
+
 <font size = 6>🌟**Thank you so much for 1.5k downloads**🌟</font>
