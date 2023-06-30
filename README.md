@@ -1,2 +1,2 @@
-# ReCraft-
+# ReCraft+
 Reposidoty about Minecraft Modpack
